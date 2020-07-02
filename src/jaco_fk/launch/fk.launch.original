@@ -1,0 +1,8 @@
+<launch>
+
+    <node pkg="jaco_fk" type="fk_check_server.py" 
+          name="server" output="screen" />
+    <node pkg="jaco_fk" type="fk_check_client.py" 
+          name="client" output="screen"args="0 0 0 0 0 0"/>
+
+</launch>

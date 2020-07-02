@@ -1,0 +1,8 @@
+Symlinking /home/afayed/kinova-demo/devel/./_setup_util.py
+Symlinking /home/afayed/kinova-demo/devel/./setup.zsh
+Symlinking /home/afayed/kinova-demo/devel/./setup.sh
+Symlinking /home/afayed/kinova-demo/devel/./setup.bash
+Symlinking /home/afayed/kinova-demo/devel/./env.sh
+Symlinking /home/afayed/kinova-demo/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/afayed/kinova-demo/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/afayed/kinova-demo/devel/lib/pkgconfig/catkin_tools_prebuild.pc

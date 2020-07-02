@@ -1,0 +1,8 @@
+float64 joint_1_req
+float64 joint_2_req
+float64 joint_3_req
+float64 joint_4_req
+float64 joint_5_req
+float64 joint_6_req
+---
+bool in_collision

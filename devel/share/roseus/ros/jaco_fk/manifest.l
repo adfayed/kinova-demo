@@ -1,0 +1,1 @@
+/home/afayed/kinova-demo/devel/.private/jaco_fk/share/roseus/ros/jaco_fk/manifest.l

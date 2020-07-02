@@ -1,0 +1,9 @@
+<launch>
+
+    <node pkg="jaco_fk" type="fk_check_server.py" 
+          name="server" output="screen"/>
+    <arg name="radian_angles"/>
+    <node pkg="jaco_fk" type="fk_check_client.py" 
+          name="client" output="screen" args="$(arg radian_angles)"/>
+
+</launch>
